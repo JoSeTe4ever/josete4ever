@@ -33,7 +33,7 @@
 
 Hi, I'm José Herminio Parreño Piqueras, a Frontend Developer 🚀 from Spain, currently, I'm a Community Team Member 🙍🏽‍♂️Beside's programming 👨🏽‍💻 , I enjoy eating food and traveling, singing and playing electric guitar.
 
-  <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
+  <img align="right" alt="GIF" src="https://media.giphy.com/media/ukMiDlCmdv2og/giphy.gif" />
 
 
 **Languages and Tools:**  
@@ -50,6 +50,6 @@ Hi, I'm José Herminio Parreño Piqueras, a Frontend Developer 🚀 from Spain, 
 
 
 
-![Abhishek's github stats](https://github-readme-stats.vercel.app/api?username=abhisheknaiidu&show_icons=true&hide_border=true)
+![Abhishek's github stats](https://github-readme-stats.vercel.app/api?username=josete4ever&show_icons=true&hide_border=true)
 
 
