@@ -51,6 +51,6 @@ My colleagues say that I am funny and passionate to work with... Even once one p
 
 
 
-![Abhishek's github stats](https://github-readme-stats.vercel.app/api?username=josete4ever&show_icons=true&hide_border=true)
+![Josete's github stats](https://github-readme-stats.vercel.app/api?username=josete4ever&show_icons=true&hide_border=true)
 
 
