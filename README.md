@@ -16,7 +16,7 @@
 Hi, I'm José Herminio Parreño Piqueras, a Frontend Developer 🚀 from Spain, currently, I'm a Community Team Member 🙍🏽‍♂️Beside's programming 👨🏽‍💻 , I enjoy eating 
 ethnic food, traveling, singing and playing electric guitar.
 
-  <img align="left" alt="GIF" src="https://media.giphy.com/media/ukMiDlCmdv2og/giphy.gif" />
+  <img align="left" alt="GIF" src="https://media.giphy.com/media/ukMiDlCmdv2og/giphy.gif" style="magin-right:20px"/>
 
 My colleagues say that I am funny and passionate to work with... Even once one person saw my code and gasped "What is that? Magic code!" ✨✨✨
 
