@@ -35,7 +35,3 @@ My colleagues say that I am funny and passionate to work with... Even once one p
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 
 
-
-![Josete's github stats](https://github-readme-stats.vercel.app/api?username=josete4ever&show_icons=true&hide_border=true)
-
-
