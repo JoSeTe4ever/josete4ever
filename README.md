@@ -9,8 +9,6 @@
   <img align="left" alt="Jose's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 
-![](https://visitor-badge.glitch.me/badge?page_id=josete4ever)
-
 <br />
 
 Hi, I'm José Herminio Parreño Piqueras, a Frontend Developer 🚀 from Spain, currently, I'm a Community Team Member 🙍🏽‍♂️Beside's programming 👨🏽‍💻 , I enjoy eating 
