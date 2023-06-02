@@ -11,7 +11,7 @@
 
 <br />
 
-Hi, I'm José Herminio Parreño Piqueras, a Frontend Developer 🚀 from Spain, currently, I'm a Community Team Member 🙍🏽‍♂️Beside's programming 👨🏽‍💻 , I enjoy eating 
+Hi, I'm José Herminio Parreño Piqueras, Software Engenieer (UCLM degree), consider me as a Frontend Developer 🚀 from Spain, currently, I'm a Community Team Member 🙍🏽‍♂️Beside's programming 👨🏽‍💻 , I enjoy eating 
 ethnic food, traveling, singing and playing electric guitar.
 
   <img align="left" alt="GIF" src="https://media.giphy.com/media/ukMiDlCmdv2og/giphy.gif" style="magin-right:20px"/>
