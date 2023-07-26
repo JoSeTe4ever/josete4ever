@@ -11,12 +11,16 @@
 
 <br />
 
-Hi, I'm José Herminio Parreño Piqueras, Software Engenieer (UCLM degree), consider me as a Frontend Developer 🚀 from Spain, currently, I'm a Community Team Member 🙍🏽‍♂️Beside's programming 👨🏽‍💻 , I enjoy eating 
-ethnic food, traveling, singing and playing electric guitar.
+Greetings! I'm José Herminio Parreño Piqueras, a Spain-based Software Engineer with a degree from UCLM. I specialize in Frontend Development 🚀 and also actively contribute as a Community Team Member 🙍🏽‍♂️.
 
+<br />
+
+Beyond my passion for coding 👨🏽‍💻, I take delight in exploring diverse cuisines, traveling to new places, expressing myself through singing, and strumming the electric guitar.
+
+<br />
   <img align="left" alt="GIF" src="https://media.giphy.com/media/ukMiDlCmdv2og/giphy.gif" style="magin-right:20px"/>
 
-My colleagues say that I am funny and passionate to work with... Even once one person saw my code and gasped "What is that? Magic code!" ✨✨✨
+My colleagues often describe me as a delightful and enthusiastic collaborator, and I've even had someone react to my code with awe, exclaiming, "What is that? Magic code!" ✨✨✨
 
 
 **Languages and Tools:**  
