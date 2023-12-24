@@ -1,4 +1,4 @@
-### Hey 👋🏽, I'm [José Herminio Parreño Piqueras!](https://www.facebook.com/JoSeTe4ever) 
+### Hey 👋🏽, I'm [José Herminio Parreño Piqueras!]([https://www.facebook.com/JoSeTe4ever](https://jopidevelops.software)
 
 <br/>
 
@@ -21,7 +21,9 @@ Beyond my passion for coding 👨🏽‍💻, I take delight in exploring divers
   <img align="left" alt="GIF" src="https://media.giphy.com/media/ukMiDlCmdv2og/giphy.gif" style="magin-right:20px"/>
 
 My colleagues often describe me as a delightful and enthusiastic collaborator, and I've even had someone react to my code with awe, exclaiming, "What is that? Magic code!" ✨✨✨
+<br />
 
+More info at https://jopidevelops.software
 
 **Languages and Tools:**  
 
