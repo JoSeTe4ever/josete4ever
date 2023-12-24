@@ -1,4 +1,4 @@
-### Hey 👋🏽, I'm [José Herminio Parreño Piqueras!]([https://www.facebook.com/JoSeTe4ever](https://jopidevelops.software)
+### Hey 👋🏽, I'm [José Herminio Parreño Piqueras!](https://jopidevelops.software)
 
 <br/>
 
