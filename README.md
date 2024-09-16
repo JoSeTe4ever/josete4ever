@@ -43,3 +43,5 @@ More info at https://jopidevelops.software
 <code><img height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
 
 
+[![Josete's GitHub stats](https://github-readme-stats.vercel.app/api?username=josete4ever&show_icons=true&theme=transparent&rank_icon=github)]()
+
